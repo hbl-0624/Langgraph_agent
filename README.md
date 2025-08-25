@@ -3,8 +3,8 @@
 一个基于 **LangGraph、FastAPI 和 Streamlit** 构建的 **生产可用 AI 代理工具包**。  
 It is a **production-ready AI Agent toolkit** built with **LangGraph, FastAPI, and Streamlit**.  
 
-它支持多种代理类型（聊天、研究、RAG 等）、流式对话、多轮会话管理以及 **LangSmith 反馈跟踪**，可快速部署 **企业级 AI 代理应用**。  
-It supports multiple agent types (Chat, Research, RAG, Command), streaming conversations, multi-turn session management, and **LangSmith feedback tracking**, enabling rapid deployment of **enterprise-grade AI agent applications**.  
+它支持**多种代理类型（聊天、研究、RAG 等）**、**流式对话**、**多轮会话管理**以及 **LangSmith 反馈跟踪**，可快速部署 **企业级 AI 代理应用**。  
+It supports **multiple agent types (Chat, Research, RAG, Command)**, **streaming conversations**, **multi-turn session management**, and **LangSmith feedback tracking**, enabling rapid deployment of **enterprise-grade AI agent applications**.  
 
 ---
 
@@ -360,9 +360,9 @@ pip install duckduckgo-search -i https://pypi.org/simple/
 ## 📜 开源协议 | License
 
 **中文**
-本项目基于 **[LICENSE](./LICENSE)** 协议开源，请查阅 LICENSE 文件了解许可范围、限制与责任。
+本项目基于 **[MIT](./MIT)** 协议开源，请查阅 MIT 文件了解许可范围、限制与责任。
 
 **English**
-This project is released under the **[LICENSE](./LICENSE)**. See the LICENSE file for permissions, limitations, and conditions.
+This project is released under the **[MIT](./MIT)**. See the MIT file for permissions, limitations, and conditions.
 
 ```

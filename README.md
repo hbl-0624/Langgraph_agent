@@ -14,9 +14,8 @@ Python	3.11+（推荐 3.11.9）	低版本不兼容 langchain-core 0.3.x 等依�
 快速部署步骤
 1. 克隆项目代码
 bash
-# 克隆仓库（替换为你的 GitHub 仓库地址）
-git clone https://github.com/你的用户名/agent-service-toolkit.git
-cd agent-service-toolkit
+git clone https://github.com:hbl-0624/Langgraph_agent.git
+cd Langgraph_agent
 
 2. 安装 Python 3.11+
 若系统未安装 Python 3.11，需先完成安装：
